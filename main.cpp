@@ -8,7 +8,7 @@ int main()
     string vardas, pasisveikinimas;
     cout << "Iveskite savo varda: ";
     cin >> vardas;
-    if(vardas[vardas.length()-1] =='a' || vardas[vardas.length()-1] == 'e')
+    if(vardas[vardas.length()-1] =='a' || vardas[vardas.length()-1] == 'e' || vardas[vardas.length()-1] =='A' || vardas[vardas.length()-1] =='E')
         pasisveikinimas = "Sveika, ";
     else pasisveikinimas = "Sveikas, ";
     cout << endl;
