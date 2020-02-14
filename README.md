@@ -14,5 +14,5 @@
  **Naudojimas (WINDOWS)**
  - Jei neturite, atsisiųskite GNU kompiliatoriu ( https://sourceforge.net/projects/mingw/files/OldFiles/ ) ir susetupinkite.
  - Atsidarę CMD projekto aplankale įveskite:
-  `g++ -o main main.cpp`
+  `g++ -o main main.cpp` ir
   `main.exe`
